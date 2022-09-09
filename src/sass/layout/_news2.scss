@@ -1,0 +1,26 @@
+.pagination{
+    width: 300px;
+    justify-content: center;
+    min-height: 50px;
+}
+
+.selected{
+    background-color: tomato;
+}
+
+.backdrop{
+    position: fixed;
+    left: 0;
+    top:0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.328);
+
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+body.show .backdrop{
+    display: flex;
+}
