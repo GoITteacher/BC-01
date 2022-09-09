@@ -1,6 +1,6 @@
-import "../css/common";
+import "../css/common.css";
 import { NewsApi } from "./modules/newsAPI";
-import newsTemplate from "../templates/newsTemplate";
+import newsTemplate from "../templates/newsTemplate.hbs";
 const formRef = document.querySelector(".js-search-form");
 const refBtnPrev = document.querySelector(".js-btn-prev");
 const refBtnNext = document.querySelector(".js-btn-next");

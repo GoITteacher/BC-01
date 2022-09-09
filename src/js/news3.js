@@ -1,5 +1,7 @@
-import "../css/common";
-import "../sass/layout/_news2";
+import "../css/common.css";
+import "../sass/layout/_news2.scss";
+import "../sass/layout/_base.scss";
+
 import { NewsAPI } from "./modules/newsAPI3";
 const news = new NewsAPI();
 
@@ -12,11 +14,11 @@ form.addEventListener("submit", onFormSubmit);
 function onFormSubmit(event) {
   event.preventDefault();
   const query = form.elements.newsQuery.value;
-  //document.body.classList.add("show");
+  document.body.classList.add("show");
   news.getNews(query).then((data) => {
     createPagination(data.total_pages);
     renderNews(data.articles);
-    //document.body.classList.remove("show");
+    document.body.classList.remove("show");
   });
 
   form.reset();
@@ -50,10 +52,10 @@ function onPaginationClick(e) {
   if (e.target.nodeName === "LI") {
     selectPage(+e.target.textContent - 1);
     news.setPage(e.target.textContent);
-    //document.body.classList.add("show");
+    document.body.classList.add("show");
     news.getNews().then((data) => {
       renderNews(data.articles);
-      //document.body.classList.remove("show");
+      document.body.classList.remove("show");
     });
   }
 }

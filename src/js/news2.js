@@ -1,5 +1,6 @@
+import "../css/common.css";
 import { NewsApi } from "./modules/newsAPI2";
-import newsTemplate from "../templates/newsTemplate2";
+import newsTemplate from "../templates/newsTemplate2.hbs";
 const formRef = document.querySelector(".js-search-form");
 const refBtnLoad = document.querySelector(".js-btn-load");
 const containerNewsRef = document.querySelector(".js-article-list");
