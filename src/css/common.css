@@ -20,9 +20,20 @@ body {
 img {
   display: block;
   max-width: 100%;
-  height: auto;
   border-radius: 10px;
   object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img-container{
+  overflow: hidden;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  border-radius: 15px;
+  width: 100%;
+  min-height: 200px;
 }
 
 .card {

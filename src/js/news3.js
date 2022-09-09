@@ -3,6 +3,7 @@ import "../sass/layout/_news2.scss";
 import "../sass/layout/_base.scss";
 
 import { NewsAPI } from "./modules/newsAPI3";
+import newsTemplate from "../templates/newsTemplate2.hbs";
 const news = new NewsAPI();
 
 const form = document.querySelector(".js-search-form");
@@ -26,11 +27,7 @@ function onFormSubmit(event) {
 
 function renderNews(arr) {
   if (arr) {
-    listRef.innerHTML = arr.reduce(
-      (acc, { summary, title, author }) =>
-        `${acc}<li class="list-item"><h3>${title}</h3><p>${summary}</p><p>${author}</p></li>`,
-      ""
-    );
+    listRef.innerHTML = newsTemplate(arr);
   }
 }
 

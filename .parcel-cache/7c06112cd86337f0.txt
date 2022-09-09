@@ -26,7 +26,7 @@
 63F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\lodash\isBoolean.js133071951334250399 0
 52F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\purgecss133071955000606220 1
 63F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\psl\data\rules.json133071951058392992 0
-41F:\2 PROJECT\Codding\GoIT\BC-1\.gitignore133071106197449559 0
+41F:\2 PROJECT\Codding\GoIT\BC-1\.gitignore133071964324174633 0
 97F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\el\name\last_name.js133071951419424003 0
 96F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ne\address\state.js133071951434434020 0
 88F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\log-symbols\node_modules\chalk\index.js.flow133071951007856840 0
@@ -39,7 +39,7 @@
 58F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\md5.js\LICENSE133071951004696533 0
 115F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\fr\commerce\product_description.d.ts133071951477819984 0
 90F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\performance-now\test\scripts\difference.coffee133071951060988724 0
-35F:\2 PROJECT\Codding\GoIT\BC-1\dist133071956046841849 1
+35F:\2 PROJECT\Codding\GoIT\BC-1\dist133071966458326408 1
 63F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\nanomatch\README.md133071951029874710 0
 102F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\fr_CH\address\city.d.ts133071951445431555 0
 60F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\term-size\vendor133071951027949856 1
@@ -297,7 +297,7 @@
 72F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\http-signature\lib\signer.js133071951051214146 0
 97F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\pl\name\last_name.js133071951419783042 0
 55F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\escape-html133071951015567336 1
-62F:\2 PROJECT\Codding\GoIT\BC-1\src\templates\newsTemplate2.hbs133071107641663273 0
+62F:\2 PROJECT\Codding\GoIT\BC-1\src\templates\newsTemplate2.hbs133071970082427249 0
 84F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@babel\types\lib\validators\isLet.js.map133071951268724012 0
 80F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\node_modules\has-flag133071951016514803 1
 56F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\browserslist133071951054120418 1
@@ -406,7 +406,7 @@
 108F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\pt_BR\phone_number\index.d.ts133071951471405609 0
 116F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\stringifier.js133071951121689631 0
 62F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\lodash\toNumber.js133071951347298386 0
-46F:\2 PROJECT\Codding\GoIT\BC-1\src\js\news3.js133071957517424656 0
+46F:\2 PROJECT\Codding\GoIT\BC-1\src\js\news3.js133071966452390452 0
 81F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\es-abstract\2020\SetFunctionLength.js133071951348286221 0
 113F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_GH\address\building_number.d.ts133071951444015868 0
 71F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\minimist\test\whitespace.js133071951065472174 0
@@ -453,7 +453,7 @@
 57F:\2 PROJECT\Codding\GoIT\BC-1\src\js\modules\newsAPI3.js133071215230527330 0
 94F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\node_modules\stylehacks\LICENSE-MIT133071954992843305 0
 60F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\purgecss\LICENSE133071954992122590 0
-49F:\2 PROJECT\Codding\GoIT\BC-1\src\css\common.css133071106199442462 0
+49F:\2 PROJECT\Codding\GoIT\BC-1\src\css\common.css133071972255679956 0
 58F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\util\README.md133071951017498844 0
 77F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\uri-js\dist\esnext\schemes\wss.js133071951065472174 0
 53F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\html-tags133071951024820769 1
@@ -559,7 +559,7 @@
 82F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\fast-json-stable-stringify\.travis.yml133071951063415631 0
 88F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\falafel\node_modules\acorn\dist\acorn.js.map133071951060699499 0
 60F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\wordwrap\example133071951031020186 1
-59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.d71832d0.js133071957096757424 0
+59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.d71832d0.js133071970087917488 0
 97F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133071950978633448 0
 53F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@mischnic133071950935063598 1
 109F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file133071951196701018 1
@@ -7338,7 +7338,7 @@
 97F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\uk\internet\index.js133071951418217536 0
 84F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\de_CH133071951467990883 1
 71F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\simple-swizzle\package.json133071950990298304 0
-59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.fb8d5397.css133071956912451756 0
+59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.fb8d5397.css133071972256814161 0
 93F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\caniuse-lite\data\features\once-event-listener.js133071951338889198 0
 66F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\core-js\client\core.js133071951310317734 0
 68F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\simple-swizzle\README.md133071950997984917 0
@@ -11117,7 +11117,7 @@
 91F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\cssstyle\lib\properties\webkitBorderEndColor.js133071951189185715 0
 71F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\src\builtins133071951263103224 1
 64F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\lodash\_isKeyable.js133071951282769678 0
-51F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.html133071956047021357 0
+51F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.html133071966459625575 0
 68F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\axios\lib\core\settle.js133071951114320676 0
 64F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\lodash\propertyOf.js133071951341772592 0
 73F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\src\FSCache.js133071951264897830 0
@@ -12298,7 +12298,7 @@
 74F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\object-inspect\test\element.js133071951071168666 0
 93F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\node_modules\htmlnano\node_modules133071951483863829 1
 75F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\caniuse-lite\data\regions\EE.js133071951306759395 0
-52F:\2 PROJECT\Codding\GoIT\BC-1\dist\BC-1.59712999.js133071956046752081 0
+52F:\2 PROJECT\Codding\GoIT\BC-1\dist\BC-1.59712999.js133071966458126938 0
 98F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\el\lorem\index.d.ts133071951468250198 0
 106F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\parcel-bundler\node_modules\@parcel\logger\test\.eslintrc.json133071951062590238 0
 89F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\acorn-globals\node_modules\acorn\package.json133071951046619858 0
@@ -20058,7 +20058,7 @@
 101F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\pl\internet\index.d.ts133071951471216118 0
 73F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\core-js\library\es6\string.js133071951383677051 0
 75F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\core-js\library\es6\weak-set.js133071951385117813 0
-63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.fb8d5397.css.map133071956912451756 0
+63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.fb8d5397.css.map133071972256814161 0
 72F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\core-js\library\core\dict.js133071951314077687 0
 84F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\modules\science133071951418945279 1
 74F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\core-js\library\core\regexp.js133071951353412529 0
@@ -24335,7 +24335,7 @@
 103F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_BORK\lorem\words.d.ts133071951483065962 0
 98F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\address133071951480702275 1
 98F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\company133071951481360517 1
-63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.12c40a2c.js.map133071956048159763 0
+63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.12c40a2c.js.map133071970085720450 0
 101F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\index.d.ts133071951468349927 0
 95F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\name133071951475883638 1
 116F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\phone_number\formats.d.ts133071951449959458 0
@@ -25025,7 +25025,7 @@
 97F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\internet\index.js133071951418147719 0
 104F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\commerce\product_name.js133071951431897502 0
 94F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\color\human.js133071951406917967 0
-62F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.9fcdb6e6.js.map133071956048149791 0
+62F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.9fcdb6e6.js.map133071966459874906 0
 99F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\cell_phone\index.js133071951418097857 0
 106F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\address\building_number.js133071951303798952 0
 95F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\tr\address\city.js133071951318907605 0
@@ -25114,7 +25114,7 @@
 90F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ro\cell_phone133071951417678975 1
 88F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ro\index.js133071951417708898 0
 88F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ro\internet133071951417718872 1
-63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.d71832d0.js.map133071957096767389 0
+63F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.d71832d0.js.map133071970087944566 0
 92F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ro\phone_number133071951417728840 1
 95F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@babel\plugin-proposal-class-static-block\README.md133071950998433720 0
 103F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\ro\phone_number\formats.js133071951403995531 0
@@ -25869,7 +25869,7 @@
 80F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@babel\core\lib\transform-ast.js.map133071951197219630 0
 100F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\en_GB\address\street.js133071951435640797 0
 104F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\en_GB\address\uk_country.js133071951439148890 0
-56F:\2 PROJECT\Codding\GoIT\BC-1\dist\BC-1.59712999.js.map133071956046821895 0
+56F:\2 PROJECT\Codding\GoIT\BC-1\dist\BC-1.59712999.js.map133071966458136915 0
 90F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\en_CA\address133071951435640797 1
 95F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\en_CA\phone_number133071951412512606 1
 104F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\@faker-js\faker\dist\cjs\locales\en_CA\phone_number\index.js133071951412512606 0
@@ -27060,9 +27060,9 @@
 57F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\.bin\uuid.ps1133071951485130439 0
 58F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\.bin\which.cmd133071951485140413 0
 58F:\2 PROJECT\Codding\GoIT\BC-1\node_modules\.bin\which.ps1133071951485130439 0
-46F:\2 PROJECT\Codding\GoIT\BC-1\dist\index.html133071956046821895 0
-41F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages133071957096767389 1
-58F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.9fcdb6e6.js133071956047749913 0
-59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.12c40a2c.js133071956047749913 0
-52F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.html133071956046821895 0
-52F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.html133071956422875054 0
+46F:\2 PROJECT\Codding\GoIT\BC-1\dist\index.html133071966458316433 0
+41F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages133071972256814161 1
+58F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news.9fcdb6e6.js133071966459575715 0
+59F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.12c40a2c.js133071970085720450 0
+52F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news2.html133071966458316433 0
+52F:\2 PROJECT\Codding\GoIT\BC-1\dist\pages\news3.html133071966458316433 0
