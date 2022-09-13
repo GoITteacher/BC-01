@@ -19,6 +19,24 @@ refs.resetForm.addEventListener("submit", onResetClick);
 refs.updateForm.addEventListener("submit", onUpdateClick);
 refs.deleteForm.addEventListener("submit", onDeleteClick);
 
+function onCreateClick(e) {
+  e.preventDefault();
+  const { bookTitle, bookAuthor, bookDesc } = e.currentTarget.elements;
+  const book = {
+    title: bookTitle.value.trim(),
+    author: bookAuthor.value.trim(),
+    desc: bookDesc.value.trim(),
+  };
+  if (book.title && book.author && book.desc)
+    newBooks.createBook(book).then(() => {
+      Notify.success("Ok");
+    });
+  else {
+    Notify.failure("Error");
+  }
+  e.currentTarget.reset();
+}
+
 function onDeleteClick(e) {
   e.preventDefault();
   const id = e.currentTarget.elements.bookId.value;
@@ -72,22 +90,4 @@ function onLoadClick(e) {
 function renderBooks(books) {
   //refs.bookList.insertAdjacentHTML("beforeend", cardBook(books));
   refs.bookList.innerHTML = cardBook(books);
-}
-
-function onCreateClick(e) {
-  e.preventDefault();
-  const { bookTitle, bookAuthor, bookDesc } = e.currentTarget.elements;
-  const book = {
-    title: bookTitle.value.trim(),
-    author: bookAuthor.value.trim(),
-    desc: bookDesc.value.trim(),
-  };
-  if (book.title && book.author && book.desc)
-    newBooks.createBook(book).then(() => {
-      Notify.success("Ok");
-    });
-  else {
-    Notify.failure("Error");
-  }
-  e.currentTarget.reset();
 }
